@@ -501,7 +501,6 @@ nav ul li a.active:after {
 
 .offer {
     position: relative;
-    border-radius: 8px;
     overflow: hidden;
     box-shadow: var(--box-shadow);
 }
