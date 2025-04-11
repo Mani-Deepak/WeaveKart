@@ -359,7 +359,6 @@ nav ul li a.active:after {
 
 .product {
     background-color: var(--white);
-    border-radius: 8px;
     width: 20rem;
     overflow: hidden;
     box-shadow: var(--box-shadow);
