@@ -291,7 +291,6 @@ nav ul li a.active:after {
 .category {
     background-color: var(--white);
     width: 20rem;
-    border-radius: 8px;
     overflow: hidden;
     box-shadow: var(--box-shadow);
     transition: var(--transition);
